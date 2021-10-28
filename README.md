@@ -27,4 +27,5 @@ Utilizando os conceitos já utilizados em exercícios anteriores. É proposto um
   - Imprimir todas as turmas;
   - Imprimir histórico de todos os alunos;
 
- 
+![](https://github.com/MelloWill36/Sistema-de-notas-Escola-do-Ensino-Medio/blob/main/gif.gif)<br>
+https://youtu.be/5XFB5aLI0Vs
